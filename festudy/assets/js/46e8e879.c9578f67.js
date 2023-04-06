@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfe_study=self.webpackChunkfe_study||[]).push([[8244],{4338:e=>{e.exports=JSON.parse('{"label":"be","permalink":"/festudy/blog/tags/be","allTagsPath":"/festudy/blog/tags","count":1}')}}]);
