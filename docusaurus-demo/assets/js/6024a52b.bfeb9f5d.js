@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website_demo=self.webpackChunkmy_website_demo||[]).push([[7917],{1281:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/festudy/blog/tags/hola","allTagsPath":"/festudy/blog/tags","count":1}')}}]);
