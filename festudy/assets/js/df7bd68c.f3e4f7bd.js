@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfe_study=self.webpackChunkfe_study||[]).push([[9419],{2883:e=>{e.exports=JSON.parse('{"permalink":"/festudy/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":7,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfe_study=self.webpackChunkfe_study||[]).push([[5254],{8128:e=>{e.exports=JSON.parse('[{"label":"vue","permalink":"/festudy/blog/tags/vue","count":1},{"label":"cli","permalink":"/festudy/blog/tags/cli","count":4}]')}}]);
