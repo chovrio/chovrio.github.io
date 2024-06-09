@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkweb_site=self.webpackChunkweb_site||[]).push([[942],{1222:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/rr-utils/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
